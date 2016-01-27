@@ -19,6 +19,7 @@
   "main": "lib/node-windows.js",
   "preferGlobal": true,
   "dependencies": {
+    "fs-extra": "^0.26.4",
     "optimist": "~0.6.0"
   },
   "readmeFilename": "README.md",
